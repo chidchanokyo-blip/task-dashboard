@@ -2,7 +2,7 @@
 
 ![งานทั้งหมด](https://img.shields.io/badge/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94-362-informational?style=flat-square) ![เลยกำหนด](https://img.shields.io/badge/%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94-3-critical?style=flat-square) ![In Progress](https://img.shields.io/badge/In%20Progress-0-blue?style=flat-square) ![Done](https://img.shields.io/badge/Done-1-brightgreen?style=flat-square)
 
-> 🤖 อัปเดตอัตโนมัติผ่าน Google Apps Script | ล่าสุด: **2026-05-05 01:16**
+> 🤖 อัปเดตอัตโนมัติผ่าน Google Apps Script | ล่าสุด: **2026-05-05 01:32**
 
 ---
 
@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Task_ID | Task_Name | Assignee_Name |  Priority |  Status | Due_Date | `` NaN% |
 | T001 | รายงานงบ Q2 | ชิดชนก โยธะชัย | 🔴 High | ⚠️ Overdue | **2026-04-15** ⚠️ (+19วัน) | `████░░░░░░` 40% |
-| T002 | Deck Investor | แพรวพรรณ อื้อเจริญ | 🔴 High | ⚠️ Overdue | **Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time)** ⚠️ (+3วัน) | `███████░░░` 65% |
+| T002 | Deck Investor | ศิธร เพ็ญพร | 🔴 High | ⚠️ Overdue | **Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time)** ⚠️ (+3วัน) | `███████░░░` 65% |
 | T004 | ทำแบนเนอร์ | ชิดชนก โยธะชัย | 🟡 Medium | ⚠️ Overdue | **Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time)** ⚠️ (+3วัน) | `░░░░░░░░░░` 0% |
 | T005 |  |  |   |   |  | `░░░░░░░░░░` 0% |
 | T006 |  |  |   |   |  | `░░░░░░░░░░` 0% |
@@ -375,7 +375,7 @@
 ## 🚨 งานที่เลยกำหนด
 
 - **รายงานงบ Q2** — ชิดชนก โยธะชัย _(เลยกำหนด 19 วัน · Due: 2026-04-15)_
-- **Deck Investor** — แพรวพรรณ อื้อเจริญ _(เลยกำหนด 3 วัน · Due: Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time))_
+- **Deck Investor** — ศิธร เพ็ญพร _(เลยกำหนด 3 วัน · Due: Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time))_
 - **ทำแบนเนอร์** — ชิดชนก โยธะชัย _(เลยกำหนด 3 วัน · Due: Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time))_
 
 ---
