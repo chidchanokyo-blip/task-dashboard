@@ -1,19 +1,19 @@
 # 📊 Task Dashboard
-
+ 
 ![งานทั้งหมด](https://img.shields.io/badge/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94-362-informational?style=flat-square) ![เลยกำหนด](https://img.shields.io/badge/%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94-3-critical?style=flat-square) ![In Progress](https://img.shields.io/badge/In%20Progress-0-blue?style=flat-square) ![Done](https://img.shields.io/badge/Done-1-brightgreen?style=flat-square)
-
-> 🤖 อัปเดตอัตโนมัติผ่าน Google Apps Script | ล่าสุด: **2026-05-05 01:32**
-
+ 
+> 🤖 อัปเดตอัตโนมัติผ่าน Google Apps Script | ล่าสุด: **2026-05-05 02:39**
+ 
 ---
-
+ 
 ## 📋 ตารางงาน (แสดงเฉพาะงานที่ยังไม่เสร็จ)
-
+ 
 | Task_ID | Task_Name | Assignee | Priority | Status | Due_Date | Progress |
 | --- | --- | --- | --- | --- | --- | --- |
 | Task_ID | Task_Name | Assignee_Name |  Priority |  Status | Due_Date | `` NaN% |
-| T001 | รายงานงบ Q2 | ชิดชนก โยธะชัย | 🔴 High | ⚠️ Overdue | **2026-04-15** ⚠️ (+19วัน) | `████░░░░░░` 40% |
-| T002 | Deck Investor | ศิธร เพ็ญพร | 🔴 High | ⚠️ Overdue | **Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time)** ⚠️ (+3วัน) | `███████░░░` 65% |
-| T004 | ทำแบนเนอร์ | ชิดชนก โยธะชัย | 🟡 Medium | ⚠️ Overdue | **Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time)** ⚠️ (+3วัน) | `░░░░░░░░░░` 0% |
+| T001 | รายงานงบ Q2 | ชิดชนก โยธะชัย | 🔴 High | ⚠️ Overdue | **2026-04-15** ⚠️ (+20วัน) | `████░░░░░░` 40% |
+| T002 | Deck Investor | ศิธร เพ็ญพร | 🔴 High | ⚠️ Overdue | **2026-05-01** ⚠️ (+4วัน) | `███████░░░` 65% |
+| T004 | ทำแบนเนอร์ | ชิดชนก โยธะชัย | 🟡 Medium | ⚠️ Overdue | **2026-05-01** ⚠️ (+4วัน) | `░░░░░░░░░░` 0% |
 | T005 |  |  |   |   |  | `░░░░░░░░░░` 0% |
 | T006 |  |  |   |   |  | `░░░░░░░░░░` 0% |
 | T007 |  |  |   |   |  | `░░░░░░░░░░` 0% |
@@ -371,22 +371,22 @@
 | T359 |  |  |   |   |  | `░░░░░░░░░░` 0% |
 | T360 |  |  |   |   |  | `░░░░░░░░░░` 0% |
 | T361 |  |  |   |   |  | `░░░░░░░░░░` 0% |
-
+ 
 ## 🚨 งานที่เลยกำหนด
 
-- **รายงานงบ Q2** — ชิดชนก โยธะชัย _(เลยกำหนด 19 วัน · Due: 2026-04-15)_
-- **Deck Investor** — ศิธร เพ็ญพร _(เลยกำหนด 3 วัน · Due: Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time))_
-- **ทำแบนเนอร์** — ชิดชนก โยธะชัย _(เลยกำหนด 3 วัน · Due: Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time))_
-
+- **รายงานงบ Q2** — ชิดชนก โยธะชัย _(เลยกำหนด 20 วัน · Due: 2026-04-15)_
+- **Deck Investor** — ศิธร เพ็ญพร _(เลยกำหนด 4 วัน · Due: 2026-05-01)_
+- **ทำแบนเนอร์** — ชิดชนก โยธะชัย _(เลยกำหนด 4 วัน · Due: 2026-05-01)_
+ 
 ---
-
-## ⚙️ Integration (ผ่าน Google Apps Script ทั้งหมด)
-
+ 
+## ⚙️ Integration
+ 
 | ระบบ | วิธีเชื่อมต่อ | สถานะ |
 | --- | --- | --- |
 | Google Sheets → GitHub | Apps Script `pushToGitHub()` | ✅ Auto-sync ทุก 9:00 |
 | GitHub Render | README.md + CSV | ✅ แสดงผลอัตโนมัติ |
 | Apps Script → LINE OA | `sendLINEMessage()` | ✅ ส่งตรงผ่าน Messaging API |
-
+ 
 ---
 <sub>📁 <a href="data/tasks.csv">Download tasks.csv</a> · Powered by Google Apps Script</sub>
