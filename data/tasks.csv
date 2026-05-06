@@ -1,10 +1,9 @@
 Task_ID,Task_Name,Description,Assignee_Name,Assignee_LINE_ID,Priority,Status,Due_Date,Progress_Percent,Last_Updated,Relationship_Tone,AI_FollowUp_Remark
-Task_ID,Task_Name,Description,Assignee_Name,Assignee_LINE_ID,Priority,Status,Due_Date,NaN,,Relationship_Tone,AI_FollowUp_Remark
-T001,รายงานงบ Q2,สรุปงบประมาณไตรมาส 2 สำหรับบอร์ด,ชิดชนก โยธะชัย,U65e419be1e7249fae3a1b1d1f2939e7a,High,Overdue,2026-04-15,40,,กึ่งทางการ,เจ้านายเน้นว่าต้องเสร็จก่อนประชุมบอร์ด
-T002,Deck Investor,จัดทำ Presentation สำหรับนักลงทุน,ศิธร เพ็ญพร,Ubccde9654b5e22ea5faf161ba577a27a,High,Overdue,2026-05-01,65,,ทางการ,ใช้ template สีน้ำเงินของบริษัท
-T003,ประเมิน OKR พนักงาน,ประเมินผลงาน Q1 รายบุคคลทุกแผนก,ศิธร เพ็ญพร,Ubccde9654b5e22ea5faf161ba577a27a,Medium,Done,2026-04-30,100,,สนิทสนม,
-T004,ทำแบนเนอร์,ทำแบนเนอร์วันหยุดเดือน มิ.ย,ชิดชนก โยธะชัย,U65e419be1e7249fae3a1b1d1f2939e7a,Medium,Overdue,2026-05-01,0,,กึ่งทางการ,
-T005,,,,,,,,0,,ทางการ,
+T001,รายงานงบ Q2,สรุปงบประมาณไตรมาส 2 สำหรับบอร์ด,ชิดชนก โยธะชัย,U59877dc29d61d2f2b629277165caffbd,High,Overdue,2026-04-15,40,,กึ่งทางการ,เจ้านายเน้นว่าต้องเสร็จก่อนประชุมบอร์ด
+T002,Deck Investor,จัดทำ Presentation สำหรับนักลงทุน,ศิธร เพ็ญพร,U59877dc29d61d2f2b629277165caffbd,High,Overdue,Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time),65,,ทางการ,ใช้ template สีน้ำเงินของบริษัท
+T003,ประเมิน OKR พนักงาน,ประเมินผลงาน Q1 รายบุคคลทุกแผนก,ศิธร เพ็ญพร,U59877dc29d61d2f2b629277165caffbd,Medium,Done,2026-04-30,100,,สนิทสนม,
+T004,ทำแบนเนอร์,ทำแบนเนอร์วันหยุดเดือน มิ.ย,ชิดชนก โยธะชัย,U59877dc29d61d2f2b629277165caffbd,Medium,Overdue,Fri May 01 2026 14:00:00 GMT+0700 (Indochina Time),0,,กึ่งทางการ,
+T005,,,,U59877dc29d61d2f2b629277165caffbd,,,,0,,ทางการ,
 T006,,,,,,,,0,,ทางการ,
 T007,,,,,,,,0,,ทางการ,
 T008,,,,,,,,0,,ทางการ,
