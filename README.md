@@ -2,7 +2,7 @@
 
 ![งานทั้งหมด](https://img.shields.io/badge/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94-361-informational?style=flat-square) ![เลยกำหนด](https://img.shields.io/badge/%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94-3-critical?style=flat-square) ![In Progress](https://img.shields.io/badge/In%20Progress-0-blue?style=flat-square) ![Done](https://img.shields.io/badge/Done-1-brightgreen?style=flat-square)
 
-> 🤖 อัปเดตอัตโนมัติผ่าน Google Apps Script | ล่าสุด: **2026-05-07 09:19**
+> 🤖 อัปเดตอัตโนมัติผ่าน Google Apps Script | ล่าสุด: **2026-05-07 10:13**
 
 ---
 
